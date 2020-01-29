@@ -1,0 +1,11 @@
+{
+  "require": {
+  },
+  "minimum-stability": "dev",
+  "autoload": {
+    "psr-4": {
+      "Tools\\": "Tools/"
+    }
+  }
+}
+
